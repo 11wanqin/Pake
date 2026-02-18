@@ -1,4 +1,4 @@
-name: Build App With Pake CLI
+name: Build App With Pake CLI (add proxy function)
 env:
   NODE_VERSION: "22"
   PNPM_VERSION: "10.26.2"
